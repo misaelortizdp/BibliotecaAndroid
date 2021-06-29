@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Biblioteca</string>
+    <string name="biblioteca">BIBLIOTECA</string>
+    <string name="titulo">Titulo</string>
+    <string name="autor">Autor</string>
+    <string name="genero">Genero</string>
+    <string name="editorial">Editorial</string>
+    <string name="guardar">Guardar</string>
+    <string name="listado">Listado</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="titulo2">Titulo:</string>
+    <string name="autor2">Autor:</string>
+    <string name="genero2">Genero:</string>
+    <string name="editorial2">Editorial:</string>
+    <string name="actualizar">ACTUALIZAR</string>
+    <string name="eliminar">ELIMINAR</string>
+</resources>
